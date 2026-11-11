@@ -1,0 +1,5 @@
+# Archivos que crean Python y PyCharm y que no hace falta subir
+__pycache__/
+*.pyc
+.idea/
+.venv/
