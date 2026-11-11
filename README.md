@@ -40,7 +40,7 @@ Escoge una opcion: 1
 
 La tabla enseña todos los canales con sus datos alineados en columnas, y en la columna `ACTIU` sale un 1 cuando el canal está activo
 
-> [!NOTA]
+> [!NOTE]
 > **Textos en catalán y castellano:**
 > Los nombres de los campos y algunas opciones están en catalán porque así venían en el enunciado, y el resto de mensajes los escribí en castellano
 
@@ -76,7 +76,7 @@ Lo que mejor me ha salido son las búsquedas y las estadísticas, porque puedes 
 
 No necesita instalar nada aparte de Python, solo hay que lanzar el archivo con el comando de arriba
 
-> [!ALERTA]
+> [!WARNING]
 > **Hace falta Python `3.12` o más nuevo**
 > En las tablas uso f-strings con comillas dobles dentro de las llaves, y eso en versiones más viejas que la `3.12` da error de sintaxis nada más arrancar
 
